@@ -1,5 +1,5 @@
 # 1. Introductie
-__disable_copilot.ps1__ is een PowerShell-script dat de microsoft copilot licentie uitzet voor geberuikers die in het bestand __copilot-users.csv__ staan.
+__disable_copilot.ps1__ is een PowerShell-script dat de microsoft copilot licentie uitzet voor gebruikers die in het bestand __copilot-users.csv__ staan.
 
 Dit script:
 - Controleert of een gebruiker een Copilot-licentie heeft.
